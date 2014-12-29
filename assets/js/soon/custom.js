@@ -43,7 +43,7 @@ COMMING SOON PAGE
             seconds.html('<h1>'+s+'</h1><p>Second'+(s>1?'s':''),'</p>');
             setTimeout(setDate, 1000);
 
-            message.html('<h2 style="color:#fff"> 30th January 2015 </h2>');
+            message.html('<h2 style="color:#fff"> 30th Jan 2015 - 1st Feb 2015 </h2>');
         }
     }
 })(jQuery);
